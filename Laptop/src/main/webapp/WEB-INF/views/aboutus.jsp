@@ -27,7 +27,7 @@
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav">
-					<li><a href="/home">Home</a></li>
+					<li><a href="/Laptop/homes">Home</a></li>
 					<li><a href="displayproducts">Products</a></li>    
 					<li class="active"><a href="/Laptop/aboutus">About</a></li>
 					<li><a href="contactus">Contact</a></li>
