@@ -105,15 +105,15 @@ input[type=text] {
 	<c:choose>
 		<c:when test="${sessionScope.UserLoggedIn != null}">
 <li><a href="home">Home</a></li>
-			<li><a href="raboutus"><font color="#ffffff">About Us</font></a></li>
-			<li><a href="rcontactus"><font color="#ffffff">Contact
+			<li><a href="/Laptop/raboutus"><font color="#ffffff">About Us</font></a></li>
+			<li><a href="/Laptop/rcontactus"><font color="#ffffff">Contact
 						Us</font></a></li>
 			<li><a href="rdisplayproducts">Products</a></li>
 			 
 			<ul class="nav navbar-nav navbar-right">
 
 
-				<li><a href="addcart"><span
+				<li><a href="/Laptop/addcart"><span
 						class="glyphicon glyphicon-shopping-cart">Cart</span></a></li>
 				<li><a href="perform_logout"><span
 						class="glyphicon glyphicon-log-out"></span>logout</a></li>
